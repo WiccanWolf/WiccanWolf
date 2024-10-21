@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WiccanWolf
-- 👀 I’m interested in Softwarre Development and Bug fixing!
+- 👀 I’m interested in Software Development and Bug fixing!
 - 🌱 I’m currently learning JavaScript, with the aim to learn new languages as time goes on!
 - 💞️ I’m looking to collaborate on anything that I can to help others and my own skills improve!
 - 📫 How to reach me: TBD for now!
