@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that I can to help others and my own skills improve!
 - 📫 How to reach me: TBD for now!
 - 😄 Pronouns: They/Them!
-- ⚡ Fun fact: My name is technically 48 characters and 9 words long!
+- ⚡ Fun fact: My name is technically 45 characters and 8 words long!
 
 <!---
 WiccanWolf/WiccanWolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
